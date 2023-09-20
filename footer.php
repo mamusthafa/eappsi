@@ -124,7 +124,7 @@
     <div class="text-center py-6 mt-8">
       <p class="fs-sm mb-0">
         Copyright <span class="text-primary-dark">GenAI</span>.
-        Design By Marvel_Theme
+        Design By eAppsi.com
       </p>
     </div>
   </div>
